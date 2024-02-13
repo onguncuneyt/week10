@@ -1,0 +1,6 @@
+![Books Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/1.png)
+![Category Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/2.png)
+![Book_Category Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/3.png)
+![Borrowing Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/4.png)
+![Publisher Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/5.png)
+![Author Table](https://github.com/onguncuneyt/week10/blob/main/kutuphane-yonetim/pics/6.png)
